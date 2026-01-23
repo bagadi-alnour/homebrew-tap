@@ -1,8 +1,8 @@
 class Todo < Formula
   desc "Project-embedded interactive todo system for developers"
   homepage "https://github.com/bagadi-alnour/todo-cli"
-  url "https://github.com/bagadi-alnour/todo-cli/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "f504b0ceb4eed6bb0baa169aab2494dd45786ed5f0d3bf6b193cbd37feef6e35"
+  url "https://github.com/bagadi-alnour/todo-cli/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "613c9aa4d6169713ad7aa53991fa7da9f27ffdc5cbc15043b301b8ba5b26e12c"
   license "MIT"
   head "https://github.com/bagadi-alnour/todo-cli.git", branch: "main"
 
