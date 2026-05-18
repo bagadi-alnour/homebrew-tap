@@ -21,8 +21,8 @@ brew install bagadi-alnour/tap/todo
 # Initialize a todo project
 todo init
 
-# Add a todo
-todo add "Fix authentication bug" --path src/auth
+# Add a todo (stored under .todos/users/<your-name>.json)
+todo add "Fix authentication bug" --path src/auth --assign me
 
 # List todos interactively
 todo list
